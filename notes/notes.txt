@@ -1,0 +1,17 @@
+Ecommerce using Express  MongoDb  - devloped by - Abhishek bhalala
+----------------------------------------------------------------------------------------
+
+DATABASE : Ecommerce 
+Tables: Category , SubCategory  , Product , user
+Editor : VSCode
+ --> API Testing
+ -------------------------------------------------------------------------------------------
+
+ --> Test the server (using Thunderclinet / postman / insomnia)
+
+ -------------------  ------------------------------------------------------------------------------
+
+ GET --> to get data from server  --> READ
+ POST --> to create data at server  --> create
+ PUT --> to update data at server --> UPDATE
+ DELETE --> to delete data at server --> DELETE
